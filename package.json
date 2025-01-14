@@ -21,7 +21,7 @@
   "homepage": "https://github.com/bgd-labs/aave-permissions-list#readme",
   "devDependencies": {
     "@aave/contract-helpers": "^1.18.2",
-    "@bgd-labs/aave-address-book": "4.7.1-55059af528eaf322fca91f3b0c59ce8c94019549.0",
+    "@bgd-labs/aave-address-book": "4.7.5-a9678f84b8dbcaca60dfc1f11413b79f01dc8770.0",
     "@types/node": "^18.8.3",
     "dotenv": "^16.0.3",
     "ethers": "^5.7.1",
